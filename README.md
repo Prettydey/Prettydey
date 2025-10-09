@@ -12,7 +12,7 @@
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Pretty Dey</h1>
-<p align="center">I’m a curious explorer of ideas, a lifelong learner fueled by coffee and curiosity. I love diving into tech, tinkering with creative projects, and turning challenges into “aha!” moments. When I’m off the clock, you’ll find me sketching, designing, or gaming my way through new worlds—always feeding my creativity and keeping my focus sharp.</p>
+<p align="center">I’m a curious explorer of ideas, a lifelong learner fueled by coffee and curiosity. I love diving into tech, tinkering with creative projects, and turning challenges into “aha!” moments. Off the clock, I enjoy sketching, designing, and gaming. However, I find working with data fascinating in recent days.</p>
 
 
 - 🔭 I’m currently working on Medicine Leaf Detection
